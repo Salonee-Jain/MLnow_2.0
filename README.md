@@ -1,7 +1,7 @@
 
 ## ML.now() 2.0
 
-> 👩🏻‍💻  This repository is a code archive for the `ML.now()` course [Saloni Jain](https://github.com/Salonee-Jain)
+> 👩🏻‍💻  This repository is a code archive for the `ML.now()` course created by [Saloni Jain](https://github.com/Salonee-Jain)
 
 
 ![](https://img.shields.io/badge/TensorFlow-v2.4.0-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
