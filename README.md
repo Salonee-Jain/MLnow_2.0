@@ -36,9 +36,11 @@ $ git push -u origin <branch-name>
 [@Salonee-Jain:](https://github.com/Salonee-Jain)
 [![Twitter][1.2]][1]
 [![LinkedIn][2.2]][2]
+[Mail](3)
 
 [1.2]: https://user-images.githubusercontent.com/26264600/88994487-151cad00-d31b-11ea-8795-da01dd1f29d7.png
 [2.2]: https://user-images.githubusercontent.com/26264600/88994287-99226500-d31a-11ea-9a80-a91afd654777.png
 
 [1]: https://twitter.com/SaloniJain__
 [2]: https://www.linkedin.com/in/saloni--jain/
+[3]: mailto:salonijain1248@gmail.com
